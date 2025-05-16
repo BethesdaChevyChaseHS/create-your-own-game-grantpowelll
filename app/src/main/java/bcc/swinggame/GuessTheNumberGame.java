@@ -9,3 +9,7 @@ public class App {
         new HelloWorldExample();
     }
 }
+import java.util.Scanner;
+import java.util.Random;
+
+public class GuessTheNumberGame
